@@ -108,10 +108,10 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 
 ### Part III:  Code Analysis Framework - Clang and LLVM IR Pass  
--  Apr 4: [CLang tutorial 1/2: Clang AST](2-coverage/lec7-Clang-tutorial-v2.pptx) [[pdf]](2-coverage/lec7-Clang-tutorial-v2.pdf)
+-  Apr 4: [CLang tutorial 1/2: Clang AST](3-clang-llvm/lec7-Clang-tutorial-v2.pptx) [[pdf]](2-coverage/lec7-Clang-tutorial-v2.pdf)
    - [clang_example.c](https://github.com/swtv-kaist/cs458-spring23/blob/main/2-coverage/code/clang/clang_example.c)
 
-- Apr 9, : [Clang tutorial 2/2: a program analysis tool by using Clang](2-coverage/lec8-building-Clang-analyzer-v3.pptx) [[pdf]](2-coverage/lec8-building-Clang-analyzer-v3.pdf)
+- Apr 9, : [Clang tutorial 2/2: a program analysis tool by using Clang](3-clang-llvm/lec8-building-Clang-analyzer-v3.pptx) [[pdf]](2-coverage/lec8-building-Clang-analyzer-v3.pdf)
   - [PrintFunction.cpp](https://github.com/swtv-kaist/cs458-spring23/blob/main/2-coverage/code/clang/PrintFunction.cpp)
   - [Document for useful clang APIs](https://github.com/swtv-kaist/cs458-spring23/tree/main/clang-api)
 
@@ -119,37 +119,37 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - **Apr : Midterm exam (closed book) 4:00-5:00 pm**
 
 
-- Apr 23, 25: [LLVM IR](2-coverage/lec12-llvm-ir-v3.pptx) [[pdf]](2-coverage/lec12-llvm-ir-v3.pdf)
+- Apr 23, 25: [LLVM IR](3-clang-llvm/lec12-llvm-ir-v3.pptx) [[pdf]](2-coverage/lec12-llvm-ir-v3.pdf)
   - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
 
-- Apr 30, May 2: [LLVM pass](2-coverage/lec13-llvm-pass-v3.pptx) [[pdf]](2-coverage/lec13-llvm-pass-v3.pdf), [Clang vs LLVM IR](2-coverage/lec14-clang-vs-llvm.pptx) [[pdf]](2-coverage/lec14-clang-vs-llvm.pdf)
-  - [Template code for LLVM pass (including a complete intwrite example)](2-coverage/code/llvm/kcov-llvm.tar.gz)
+- Apr 30, May 2: [LLVM pass](3-clang-llvm/lec13-llvm-pass-v3.pptx) [[pdf]](2-coverage/lec13-llvm-pass-v3.pdf), [Clang vs LLVM IR](3-clang-llvm/lec14-clang-vs-llvm.pptx) [[pdf]](2-coverage/lec14-clang-vs-llvm.pdf)
+  - [Template code for LLVM pass (including a complete intwrite example)](3-clang-llvm/code/llvm/kcov-llvm.tar.gz)
 
 
 
 ### Part IV: Automated Test Generation: Fuzzing 
-- May 7: [Modern fuzzing technique overview (i.e., coverage-guided automated greybox testing)](3-fuzz-concolic/lec41-intro-to-fuzzing-v2.pptx) [[pdf]](3-fuzz-concolic/lec41-intro-to-fuzzing-v2.pdf) 
+- May 7: [Modern fuzzing technique overview (i.e., coverage-guided automated greybox testing)](4-fuzzing/lec41-intro-to-fuzzing-v2.pptx) [[pdf]](3-fuzz-concolic/lec41-intro-to-fuzzing-v2.pdf) 
   - [The fuzzing book online class](https://www.fuzzingbook.org/)
   - [AFL++](https://github.com/AFLplusplus/AFLplusplus)
   - [OSS Fuzz](https://github.com/google/oss-fuzz)
   
-- May 9: [AFL++ (american fuzzy lop) fuzzer tutorial](3-fuzz-concolic/lec42-fuzzing_with_afl++-v3.pptx) [[pdf]](3-fuzz-concolic/lec42-fuzzing_with_afl++-v3.pdf)
+- May 9: [AFL++ (american fuzzy lop) fuzzer tutorial](4-fuzzing/lec42-fuzzing_with_afl++-v3.pptx) [[pdf]](3-fuzz-concolic/lec42-fuzzing_with_afl++-v3.pdf)
   - [AFL++ document](https://github.com/AFLplusplus/AFLplusplus/tree/stable/docs)
 
-- May 14 : [Advanced Issues on Fuzzing](3-fuzz-concolic/lec40-greybox-fuzzing-v4.pptx) [[pdf]](3-fuzz-concolic/lec42-fuzzing_with_afl++-v4.pdf)
+- May 14 : [Advanced Issues on Fuzzing](4-fuzzing/lec40-greybox-fuzzing-v4.pptx) [[pdf]](3-fuzz-concolic/lec42-fuzzing_with_afl++-v4.pdf)
 
 - May 16: [Case study of Fuzzing Application: POWERUP fuzzer][[pdf]](3-fuzz-concolic/lec42-fuzzing_with_afl++-v4.pdf)
 
 
 ### Part V: Automated Test Generation: Concolic Testing (aka., Dynamic Symbolic Execution))
-- May 21, 23: [Automated SW analysis for high reliability: a Concolic testing approach](3-fuzz-concolic/lec31-concolic-v6.pptx) [[pdf]](3-fuzz-concolic/lec31-concolic-v6.pdf)
+- May 21, 23: [Automated SW analysis for high reliability: a Concolic testing approach](5-concolic-testing/lec31-concolic-v6.pptx) [[pdf]](3-fuzz-concolic/lec31-concolic-v6.pdf)
   - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](3-fuzz-concolic/icst-2012-slp-busybox-ls.pdf)
 
-- May 28: [CROWN tutorial](3-fuzz-concolic/lec32-crown_tutorial-v3.pptx) [[pdf]](3-fuzz-concolic/lec32-crown_tutorial-v3.pdf)
-  - [tutorial-examples](3-fuzz-concolic/code/tutorial-examples.zip)
+- May 28: [CROWN tutorial](5-concolic-testing/lec32-crown_tutorial-v3.pptx) [[pdf]](3-fuzz-concolic/lec32-crown_tutorial-v3.pdf)
+  - [tutorial-examples](5-concolic-testing/code/tutorial-examples.zip)
 
-- May 30: [CROWN Examples](3-fuzz-concolic/lec33-crown-Examples-v2.pptx) [[pdf]](3-fuzz-concolic/lec33-crown-Examples-v2.pdf) 
-  - [crown_examples.zip](3-fuzz-concolic/code/crown_examples.zip)
+- May 30: [CROWN Examples](5-concolic-testing/lec33-crown-Examples-v2.pptx) [[pdf]](3-fuzz-concolic/lec33-crown-Examples-v2.pdf) 
+  - [crown_examples.zip](5-concolic-testing/code/crown_examples.zip)
 
 <!---
 - : [SMTlib tutorial](5-smt/lec40-smtlibV2-v6.pptx) [[pdf]](5-smt/lec40-smtlibV2-v6.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
@@ -158,9 +158,9 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - [CS402 Intro to Logic (Predicate Calculus - Semantics)](https://swtv.kaist.ac.kr/courses/CS402-2013)
 --->
 
-- June 4: [System-level concolic testing: Busybox application examples through CROWN](3-fuzz-concolic/lec35-printf-grep-vi-system-testing-v3.pptx) [[pdf]](3-fuzz-concolic/lec35-printf-grep-vi-system-testing-v3.pdf)
+- June 4: [System-level concolic testing: Busybox application examples through CROWN](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pptx) [[pdf]](3-fuzz-concolic/lec35-printf-grep-vi-system-testing-v3.pdf)
 
-- June 6: [Automated unit testing](3-fuzz-concolic/lec36.automated_unit_testing-v2.pptx) [[pdf]](3-fuzz-concolic/lec36.automated_unit_testing-v2.pdf), [Unit-level concolic testing: Busybox ls example](3-fuzz-concolic/lec37-ls-unit-testing-v4.pptx) [[pdf]](3-fuzz-concolic/lec37-ls-unit-testing-v4.pdf)
+- June 6: [Automated unit testing](5-concolic-testing/lec36.automated_unit_testing-v2.pptx) [[pdf]](3-fuzz-concolic/lec36.automated_unit_testing-v2.pdf), [Unit-level concolic testing: Busybox ls example](5-concolic-testing/lec37-ls-unit-testing-v4.pptx) [[pdf]](3-fuzz-concolic/lec37-ls-unit-testing-v4.pdf)
 
 <!---
 - Online makeup class: Industrial case studies (pre-recorded movie clip) (can be included in the final exam)

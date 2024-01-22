@@ -127,7 +127,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 
 
-### Part IV: Automated Test Generation: Fuzzing and Concolic Testing (a.k.a., Dynamic Symbolic Execution))
+### Part IV: Automated Test Generation: Fuzzing 
 - May 7: [Modern fuzzing technique overview (i.e., coverage-guided automated greybox testing)](3-fuzz-concolic/lec41-intro-to-fuzzing-v2.pptx) [[pdf]](3-fuzz-concolic/lec41-intro-to-fuzzing-v2.pdf) 
   - [The fuzzing book online class](https://www.fuzzingbook.org/)
   - [AFL++](https://github.com/AFLplusplus/AFLplusplus)
@@ -141,7 +141,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - May 16: [Case study of Fuzzing Application: POWERUP fuzzer][[pdf]](3-fuzz-concolic/lec42-fuzzing_with_afl++-v4.pdf)
 
 
-### Part V: Automated Test Generation: Concolic Testing (a.k.a., Dynamic Symbolic Execution))
+### Part V: Automated Test Generation: Concolic Testing (aka., Dynamic Symbolic Execution))
 - May 21, 23: [Automated SW analysis for high reliability: a Concolic testing approach](3-fuzz-concolic/lec31-concolic-v6.pptx) [[pdf]](3-fuzz-concolic/lec31-concolic-v6.pdf)
   - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](3-fuzz-concolic/icst-2012-slp-busybox-ls.pdf)
 

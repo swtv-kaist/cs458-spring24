@@ -108,12 +108,12 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 
 ### Part III:  Code Analysis Framework - Clang and LLVM IR Pass  
--  Apr 4: [CLang tutorial 1/2: Clang AST](3-clang-llvm/lec7-Clang-tutorial-v2.pptx) [[pdf]](3-clang-llvm/lec7-Clang-tutorial-v2.pdf)
+-  Apr 4: [Clang tutorial 1/2: Clang AST](3-clang-llvm/lec7-Clang-tutorial-v2.pptx) [[pdf]](3-clang-llvm/lec7-Clang-tutorial-v2.pdf)
    - [clang_example.c](https://github.com/swtv-kaist/cs458-spring23/blob/main/2-coverage/code/clang/clang_example.c)
 
 - Apr 9, : [Clang tutorial 2/2: a program analysis tool by using Clang](3-clang-llvm/lec8-building-Clang-analyzer-v3.pptx) [[pdf]](3-clang-llvm/lec8-building-Clang-analyzer-v3.pdf)
   - [PrintFunction.cpp](https://github.com/swtv-kaist/cs458-spring23/blob/main/2-coverage/code/clang/PrintFunction.cpp)
-  - [Document for useful clang APIs](https://github.com/swtv-kaist/cs458-spring23/tree/main/clang-api)
+  - [Document for useful clang APIs](https://3-24.github.io/cs458-manual/docs/clang-inst/)
 
 - Apr 11: Q&A for midterm exam
 - **Apr : Midterm exam (closed book) 4:00-5:00 pm**

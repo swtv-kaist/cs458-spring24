@@ -120,7 +120,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Apr 11: Q&A for midterm exam
 
 
-- **Apr 23: Midterm exam (closed book) 4:00-5:00 pm**
+- **Apr 23: Midterm exam (closed book) 5:30-6:45 pm**
 
 - Apr 25: [LLVM IR](3-clang-llvm/lec12-llvm-ir-v3.pptx) [[pdf]](3-clang-llvm/lec12-llvm-ir-v3.pdf)
   - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)

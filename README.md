@@ -2,8 +2,9 @@
 
 ## Announcement
 
-Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due to the conflict w/ ICSE 2024 (April 14-20)
- 
+- Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due to the conflict w/ ICSE 2024 (April 14-20)
+
+- Feb 22: CS458 class room is changed to E3 RM#1101 
 ## Administrative Information
 
 - Instructor: [Prof. Moonzoo Kim](https://swtv.kaist.ac.kr/members/mzkim)
@@ -17,7 +18,7 @@ Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due
 
 - Lecture hours: Tue/Thur 5:30 - 6:45 PM
 
-- Lecture room: E3 Rm#1501 (and through Zoom)
+- Lecture room: E3 Rm#1101 (and through Zoom)
   - a face-to-face lecture on Tues and an online lecture on Thurs (this plan may change later) 
   - Zoom link for Thurs class: https://kaist.zoom.us/j/5258253316
 

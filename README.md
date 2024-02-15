@@ -2,7 +2,7 @@
 
 ## Announcement
 
-Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period)
+Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due to the conflict w/ ICSE 2024 (April 14-20)
  
 ## Administrative Information
 

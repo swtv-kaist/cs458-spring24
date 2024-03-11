@@ -2,6 +2,7 @@
 
 ## Announcement
 
+- Mar 11: Online class on Mar 19 (Tues), Offline class on Mar 21 (Thurs)
 - Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due to the conflict w/ ICSE 2024 (April 14-20)
 
 - Feb 22: CS458 class room is changed to E3 RM#1101 
@@ -99,6 +100,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Mar 19: [gcov tutorial](2-coverage/lec6-gcov-llvm-cov-v6.pptx) [[pdf]](2-coverage/lec6-gcov-llvm-cov-v6.pdf)  
    - [gcc manual](https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html), [gcov manual](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html)
      
+- Homework 2: '''grep''' testing
 
 - Mar 21, 26: [Logic coverage](2-coverage/lec9-Logic-covearge-v3.pptx) [[pdf]](2-coverage/lec9-Logic-covearge-v3.pdf)
   - [Example](2-coverage/lec9.5-ACC-ICC-example.pptx) [[pdf]](2-coverage/lec9.5-ACC-ICC-example.pdf)

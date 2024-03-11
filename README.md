@@ -89,6 +89,8 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - [Intro to Software Testing web site](https://cs.gmu.edu/~offutt/softwaretest/)
   - "An Experimental Comparison of Four Unit Test Criteria: Mutation, Edge-Pair, All-uses and Prime Path Coverage" by Nan Li et al. '09 Intl. Conf. on Software Testing, Verification, and Validation Workshops
 
+- Homework 1: Graph coverage
+
 - Mar 12, 14: [Graph coverage for source code](2-coverage/lec5-graph-coverage-code.pptx) [[pdf]](2-coverage/lec5-graph-coverage-code.pdf),
   [Generating CFG using GCC and Graphviz](2-coverage/lec5.5-cfg-generation-v2.pptx) [[pdf]](2-coverage/lec5.5-cfg-generation-v2.pdf) 
    - http://www.webgraphviz.com/
@@ -100,7 +102,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Mar 19: [gcov tutorial](2-coverage/lec6-gcov-llvm-cov-v6.pptx) [[pdf]](2-coverage/lec6-gcov-llvm-cov-v6.pdf)  
    - [gcc manual](https://gcc.gnu.org/onlinedocs/gcc/Option-Summary.html), [gcov manual](https://gcc.gnu.org/onlinedocs/gcc/Gcov.html)
      
-- Homework 2: `grep` testing
+- Homework 2: Manual testing of `grep` utility for branch coverage (graph coverage)
 
 - Mar 21, 26: [Logic coverage](2-coverage/lec9-Logic-covearge-v3.pptx) [[pdf]](2-coverage/lec9-Logic-covearge-v3.pdf)
   - [Example](2-coverage/lec9.5-ACC-ICC-example.pptx) [[pdf]](2-coverage/lec9.5-ACC-ICC-example.pdf)
@@ -109,7 +111,8 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - Apr 2: [Mutation testing](2-coverage/lec11-mutation-testing-v2.pptx) [[pdf]](2-coverage/lec11-mutation-testing-v2.pdf) 
   - ["Design Of Mutant Operators For The C Programming Language" by Agrawal et al](2-coverage/mutop-design-harness.pdf)
 
-  
+- Homework 3: Manual testing of `tcas` utility for MC/DC coverage (logic coverage)
+
 
 
 ### Part III:  Code Analysis Framework - Clang and LLVM IR Pass  
@@ -121,6 +124,8 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - [Document for useful clang APIs](https://3-24.github.io/cs458-manual/docs/clang-inst/)
 
 - Apr 11: Q&A for midterm exam
+
+- Homework 4: kcov coverage tool (Clang)
 
 
 - **Apr 23: Midterm exam (closed book) 5:30-7:00 pm**

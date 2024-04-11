@@ -2,6 +2,10 @@
 
 ## Announcement
 
+- Apri 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
+  -  HW#3 due date: April 20
+  -  HW#4 due date: April 30
+
 - Mar 11: Online class on Mar 19 (Tues), Offline class on Mar 21 (Thurs)
 - Feb 15: Midterm exam on April 23 (1 week later from the midterm exam period) due to the conflict w/ ICSE 2024 (April 14-20)
 
@@ -116,7 +120,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - ["MUSIC: MUtation analySIs tool with high Configurability and extensibility" by Phan et al (Mutation Workshop 18)](https://swtv.kaist.ac.kr/publications/music-mutation18.pdf)
     - [Github repo of MUSIC](https://github.com/swtv-kaist/MUSIC)
 
-- Homework 3: Manual testing of `tcas` utility for MC/DC coverage (logic coverage)
+- Homework 3: Manual testing of `tcas` utility for MC/DC coverage (logic coverage) (Due April 20 midnight)
 
 
 
@@ -130,10 +134,10 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Apr 11: Q&A for midterm exam
 
-- Homework 4: kcov coverage tool (Clang) (Due April 25 midnight)
+- Homework 4: kcov coverage tool (Clang) (Due April 30 midnight)
 
 
-- **Apr 23: Midterm exam (closed book, not including Clang part) 5:30-7:00 pm**
+- **Apr 23: Midterm exam (closed book, NOT including Clang part) 5:30-7:00 pm**
 
 - Apr 25: [LLVM IR](3-clang-llvm/lec12-llvm-ir-v3.pptx) [[pdf]](3-clang-llvm/lec12-llvm-ir-v3.pdf)
   - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)

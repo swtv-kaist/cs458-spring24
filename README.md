@@ -130,7 +130,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - Apr 11: Q&A for midterm exam
 
-- Homework 4: kcov coverage tool (Clang)
+- Homework 4: kcov coverage tool (Clang) (Due April 25 midnight)
 
 
 - **Apr 23: Midterm exam (closed book, not including Clang part) 5:30-7:00 pm**

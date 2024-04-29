@@ -1,8 +1,8 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
 
 ## Announcement
-
-- Apri 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
+- Apr 29: Online class on May 14 (Tues) and offline class on May 16 (Thurs)
+- Apr 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
   -  HW#3 due date: April 20
   -  HW#4 due date: April 30
 

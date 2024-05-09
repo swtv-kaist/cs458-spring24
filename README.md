@@ -1,7 +1,7 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
 
 ## Announcement
-- May 9: Class starting at 7 pm on May 21? (due to interview w/ graduate applicants)
+- May 9: Class starting at 7 pm on May 21 and 23? (due to interview w/ graduate applicants, etc.)
 - May 9: Offline class on May 14 (Tues) and online class on May 16 (Thurs) as usual
 - Apr 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
   -  HW#3 due date: April 20
@@ -151,7 +151,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - May 7: [Automated Bug Detection through Static Analysis](3-clang-llvm/lec15-coverity-v2.pptx) [[pdf]](3-clang-llvm/lec15-coverity-v2.pdf)
 
 ### Part IV: Automated Test Generation: Fuzzing 
-- May 7: [Modern fuzzing technique overview (i.e., coverage-guided automated greybox testing)](4-fuzzing/lec41-intro-to-fuzzing-v2.pptx) [[pdf]](4-fuzzing/lec41-intro-to-fuzzing-v2.pdf) 
+- May 7, 9: [Modern fuzzing technique overview (i.e., coverage-guided automated greybox testing)](4-fuzzing/lec41-intro-to-fuzzing-v2.pptx) [[pdf]](4-fuzzing/lec41-intro-to-fuzzing-v2.pdf) 
   - [The fuzzing book online class](https://www.fuzzingbook.org/)
   - [AFL++](https://github.com/AFLplusplus/AFLplusplus)
   - [OSS Fuzz](https://github.com/google/oss-fuzz)

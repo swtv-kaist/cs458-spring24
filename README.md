@@ -3,7 +3,6 @@
 ## Announcement
 - May 9: Class starting at 7 pm on May 21 (due to interview w/ graduate applicants) ? 
 - May 9: Offline class on May 14 (Tues) and online class on May 16 (Thurs) as usual
-- Apr 29: (Cancelled) ~~Online class on May 14 (Tues) and offline class on May 16 (Thurs)
 - Apr 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
   -  HW#3 due date: April 20
   -  HW#4 due date: April 30

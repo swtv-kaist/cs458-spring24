@@ -1,7 +1,9 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
 
 ## Announcement
-- Apr 29: Online class on May 14 (Tues) and offline class on May 16 (Thurs)
+- May 9: Class starting at 7 pm on May 21 (due to interview w/ graduate applicants) ? 
+- May 9: Offline class on May 14 (Tues) and online class on May 16 (Thurs) as usual
+- Apr 29: (Cancelled) Online class on May 14 (Tues) and offline class on May 16 (Thurs)
 - Apr 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
   -  HW#3 due date: April 20
   -  HW#4 due date: April 30
@@ -182,7 +184,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - June 4: [System-level concolic testing: Busybox application examples through CROWN](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pptx) [[pdf]](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pdf)
 
-- June 6: [Automated unit testing](5-concolic-testing/lec36.automated_unit_testing-v2.pptx) [[pdf]](3-fuzz-concolic/lec36.automated_unit_testing-v2.pdf), [Unit-level concolic testing: Busybox ls example](5-concolic-testing/lec37-ls-unit-testing-v4.pptx) [[pdf]](5-concolic-testing/lec37-ls-unit-testing-v4.pdf)
+- June 4: [Automated unit testing](5-concolic-testing/lec36.automated_unit_testing-v2.pptx) [[pdf]](3-fuzz-concolic/lec36.automated_unit_testing-v2.pdf), [Unit-level concolic testing: Busybox ls example](5-concolic-testing/lec37-ls-unit-testing-v4.pptx) [[pdf]](5-concolic-testing/lec37-ls-unit-testing-v4.pdf)
 
 <!---
 - Online makeup class: Industrial case studies (pre-recorded movie clip) (can be included in the final exam)

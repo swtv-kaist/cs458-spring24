@@ -1,6 +1,7 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
 
 ## Announcement
+- May 16: No class on May 21 due to graduate applicant interview
 - May 9: We will have 10 more minutes in each of the remaining classes, instead of having makeup classes.
 - May 9: Offline class on May 14 (Tues) and online class on May 16 (Thurs) as usual
 - Apr 11: The due dates of HW#3 and HW#4 are postponed as follows for you to focus on midterm exams ;-)
@@ -163,11 +164,13 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - May 14: [Case study of Fuzzing Application: POWERUP fuzzer](4-fuzzing/lec43-powerup_ICST_2023-v2.pptx) [[pdf]](4-fuzzing/lec43-powerup_ICST_2023-v2.pdf)
 
+- Homework 5: Automated testing of grep by applying AFL++ (Due May 26 midnight)
 
 ### Part V: Automated Test Generation: Concolic Testing (aka., Dynamic Symbolic Execution))
-- May 16, 21: [Automated SW analysis for high reliability: a Concolic testing approach](5-concolic-testing/lec31-concolic-v6.pptx) [[pdf]](5-concolic-testing/lec31-concolic-v6.pdf)
+- May 16: [Automated SW analysis for high reliability: a Concolic testing approach](5-concolic-testing/lec31-concolic-v6.pptx) [[pdf]](5-concolic-testing/lec31-concolic-v6.pdf)
   - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](5-concolic-testing/icst-2012-slp-busybox-ls.pdf)
 
+- May 21: No class
 - May 23: [CROWN tutorial](5-concolic-testing/lec32-crown_tutorial-v3.pptx) [[pdf]](5-concolic-testing/lec32-crown_tutorial-v3.pdf)
   - [tutorial-examples](5-concolic-testing/code/tutorial-examples.zip)
 

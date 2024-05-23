@@ -141,7 +141,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 
 - **Apr 23: Midterm exam (closed book, NOT including Clang part) 5:30-7:00 pm**
 
-- Apr 25: [LLVM IR](3-clang-llvm/lec12-llvm-ir-v3.pptx) [[pdf]](3-clang-llvm/lec12-llvm-ir-v3.pdf)
+- Apr 25: [LLVM IR](3-clang-llvm/lec12-llvm-ir-v4.pptx) [[pdf]](3-clang-llvm/lec12-llvm-ir-v4.pdf)
   - [LLVM Language Reference Manual](https://llvm.org/docs/LangRef.html)
 
 - Apr 30, May 2: [LLVM pass](3-clang-llvm/lec13-llvm-pass-v3.pptx) [[pdf]](3-clang-llvm/lec13-llvm-pass-v3.pdf), [Clang vs LLVM IR](3-clang-llvm/lec14-clang-vs-llvm.pptx) [[pdf]](3-clang-llvm/lec14-clang-vs-llvm.pdf)

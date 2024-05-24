@@ -1,6 +1,7 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
 
 ## Announcement
+- May 24: Please run only 1 instance of AFL++ per person, since no one can run AFL++ if all CPU cores of a server are occupied by AFL++ instances.
 - May 16: No class on May 21 due to graduate applicant interview
 - May 9: We will have 10 more minutes in each of the remaining classes, instead of having makeup classes.
 - May 9: Offline class on May 14 (Tues) and online class on May 16 (Thurs) as usual

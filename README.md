@@ -1,6 +1,7 @@
 # KAIST CS458 Dynamic Analysis of Software Source Code (소프트웨어 소스 코드 기반 동적 분석) Spring'24
 
 ## Announcement
+- May 26: A makeup class movie file for concolic testing is uploaded 
 - May 24: Please run only 1 instance of AFL++ per person, since no one can run AFL++ if all CPU cores of a server are occupied by AFL++ instances.
 - May 16: No class on May 21 due to graduate applicant interview
 - May 9: We will have 10 more minutes in each of the remaining classes, instead of having makeup classes.
@@ -170,6 +171,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 ### Part V: Automated Test Generation: Concolic Testing (aka., Dynamic Symbolic Execution))
 - May 16: [Automated SW analysis for high reliability: a Concolic testing approach](5-concolic-testing/lec31-concolic-v6.pptx) [[pdf]](5-concolic-testing/lec31-concolic-v6.pdf)
   - [Industrial Application of Concolic Testing on Embedded Software: Case Studies [ICSE'12 paper]](5-concolic-testing/icst-2012-slp-busybox-ls.pdf)
+  - [lec31-concolic-video-part2.mp4](https://drive.google.com/file/d/1XC68_O88FTVCQN_CZs4g0DM6O0OF8xyQ/view?usp=sharing)
 
 - May 21: No class
 - May 23: [CROWN tutorial](5-concolic-testing/lec32-crown_tutorial-v3.pptx) [[pdf]](5-concolic-testing/lec32-crown_tutorial-v3.pdf)

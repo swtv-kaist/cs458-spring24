@@ -177,8 +177,9 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
 - May 23: [CROWN tutorial](5-concolic-testing/lec32-crown_tutorial-v3.pptx) [[pdf]](5-concolic-testing/lec32-crown_tutorial-v3.pdf)
   - [tutorial-examples](5-concolic-testing/code/tutorial-examples.zip)
 
-- May 28: [CROWN Examples](5-concolic-testing/lec33-crown-Examples-v2.pptx) [[pdf]](5-concolic-testing/lec33-crown-Examples-v2.pdf) 
+- May 28: [CROWN Examples](5-concolic-testing/lec33-crown-Examples-v2.pptx) [[pdf]](5-concolic-testing/lec33-crown-Examples-v2.pdf),  [Example: Concolic testing a circular queue](5-concolic-testing/lec34-sym-exec-examples-v2.pptx)  [[pdf]] (5-concolic-testing/lec34-sym-exec-examples-v2.pdf)
   - [crown_examples.zip](5-concolic-testing/code/crown_examples.zip)
+
 
 <!---
 - : [SMTlib tutorial](5-smt/lec40-smtlibV2-v6.pptx) [[pdf]](5-smt/lec40-smtlibV2-v6.pdf), [SMTLib web page](https://smtlib.cs.uiowa.edu/), [First order theories](5-smt/lec43-first-order-theories.pptx) [[pdf]](5-smt/lec43-first-order-theories.pdf)
@@ -187,7 +188,7 @@ IEEE Trans. on Software Engineering vol. 35, no. 3, pp. 407-429, May-June 2009.
   - [CS402 Intro to Logic (Predicate Calculus - Semantics)](https://swtv.kaist.ac.kr/courses/CS402-2013)
 --->
 
-- May 30: [System-level concolic testing: Busybox application examples through CROWN](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pptx) [[pdf]](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pdf)
+- May 30, June 4: [System-level concolic testing: Busybox application examples through CROWN](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pptx) [[pdf]](5-concolic-testing/lec35-printf-grep-vi-system-testing-v3.pdf)
 
 - Homework 7: Automated testing of TCAS by applying CROWN (Due June 9 midnight)
 
